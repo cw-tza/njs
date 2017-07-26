@@ -1,0 +1,16 @@
+{
+  "name": "njs",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "First Last <first.last@example.com>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.13.3",
+    "mongodb": "^2.2.30",
+    "uuid-js": "^0.7.5"
+  }
+}
